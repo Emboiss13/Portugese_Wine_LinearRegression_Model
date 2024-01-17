@@ -1,0 +1,67 @@
+State	County	Years of Potential Life Lost Rate	Teen Birth Rate	Violent Crime Rate	Percentage Smokers
+Florida	Alachua	6633	19	579	16
+Florida	Baker	8270	58	360	19
+Florida	Bay	9168	50	508	18
+Florida	Bradford	10346	61	461	18
+Florida	Brevard	7722	25	518	16
+Florida	Broward	5737	23	441	15
+Florida	Calhoun	6415	59	130	19
+Florida	Charlotte	7353	30	219	14
+Florida	Citrus	10052	39	356	17
+Florida	Clay	6796	26	338	15
+Florida	Collier	5133	30	247	13
+Florida	Columbia	9627	55	643	18
+Florida	DeSoto	6329	58	459	20
+Florida	Dixie	10395	53	404	19
+Florida	Duval	8716	39	645	17
+Florida	Escambia	9298	43	736	18
+Florida	Flagler	7218	28	265	14
+Florida	Franklin	9459	72	457	17
+Florida	Gadsden	9919	56	462	21
+Florida	Gilchrist	9893	42	243	18
+Florida	Glades	8118	42	293	17
+Florida	Gulf	8212	45	475	18
+Florida	Hamilton	10945	69	397	20
+Florida	Hardee	7143	77	260	21
+Florida	Hendry	7598	63	682	20
+Florida	Hernando	8576	29	286	16
+Florida	Highlands	8964	46	329	15
+Florida	Hillsborough	6841	35	339	16
+Florida	Holmes	10230	53	296	20
+Florida	Indian River	6686	34	296	14
+Florida	Jackson	7876	46	408	19
+Florida	Jefferson	8232	42	764	18
+Florida	Lafayette	5814	49	291	19
+Florida	Lake	7231	38	317	16
+Florida	Lee	6620	33	341	15
+Florida	Leon	6210	15	683	16
+Florida	Levy	10307	44	275	18
+Florida	Liberty	8567	53	127	20
+Florida	Madison	10033	47	809	21
+Florida	Manatee	7538	42	581	15
+Florida	Marion	8666	44	442	16
+Florida	Martin	6447	26	232	13
+Florida	Miami-Dade	5251	25	650	14
+Florida	Monroe	6948	25	515	15
+Florida	Nassau	7435	35	131	15
+Florida	Okaloosa	6752	37	435	17
+Florida	Okeechobee	9693	63	421	21
+Florida	Orange	5989	29	681	15
+Florida	Osceola	5979	35	468	17
+Florida	Palm Beach	6032	25	463	12
+Florida	Pasco	8015	29	296	19
+Florida	Pinellas	7428	30	536	17
+Florida	Polk	7622	44	356	16
+Florida	Putnam	10213	62	620	20
+Florida	St. Johns	5378	16	271	13
+Florida	St. Lucie	6913	33	380	17
+Florida	Santa Rosa	6535	30	144	18
+Florida	Sarasota	6464	25	289	13
+Florida	Seminole	5505	19	342	15
+Florida	Sumter	7017	60	174	11
+Florida	Suwannee	9026	53	416	20
+Florida	Taylor	7875	64	743	18
+Florida	Volusia	8295	32	426	16
+Florida	Wakulla	7548	31	272	17
+Florida	Walton	7962	45	374	17
+Florida	Washington	8390	54	236	19
