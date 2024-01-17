@@ -42,8 +42,6 @@ This Jupyter Notebook project focuses on analyzing health-related data for the s
 
 **Note:** Ensure the '2017Health.txt' file is present in the working directory for proper execution.
 
-Feel free to adapt the code for further analysis or explore additional health indicators.
-
 ---
 
 *Note: The conclusions and visualizations provided in this project are based on the specific health indicators mentioned in the dataset and may not cover a comprehensive analysis of overall health conditions.*
